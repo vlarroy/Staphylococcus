@@ -1,12 +1,12 @@
 # 🦠 Diversity and Antibiotic Resistance Patterns of Staphylococcus Species in Clinical Sources
 
-![Staphylococcus](staphylococcys.png)
+![Staphylococcus](staphylococcus.png)
 
 ## 🌟 Overview
 
 Welcome to the second project of my Data Analytics Bootcamp! This project focuses on investigating the diversity and antibiotic resistance patterns of Staphylococcus species found in different clinical sources.
 
-[**View the Project Presentation (PDF)**]("Antibiotic resistance patterns in Staphylococcus isolates in clinical settings.pdf")
+[**View the Project Presentation (PDF)**](https://github.com/vlarroy/Staphylococcus/blob/master/Antibiotic%20resistance%20patterns%20in%20Staphylococcus%20isolates%20in%20clinical%20settings.pdf)
 
 ## 🎯 Objectives
 
